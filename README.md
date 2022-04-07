@@ -1,6 +1,6 @@
 ## CovidNet Backend
 
-Scenery detection using transfer learning.
+Covid-19 detection using transfer learning.
 
 ## Description
 The API uses the `VGG19` convoution neural network, which is trained on a dataset of 21617 images belonging to 2 classes. Number of images used for cross-validation were 6176 and the number of images used for testing were 3089.
