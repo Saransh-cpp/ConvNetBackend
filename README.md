@@ -1,4 +1,4 @@
-## ConvNet Backend
+## CovidNet Backend
 
 Scenery detection using transfer learning.
 
