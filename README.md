@@ -13,9 +13,9 @@ labels = {
 ```
 
 ## Usage
-- The API can be accessed through the URL - TODO
+- The API can be accessed through the URL - https://covid-net-backend.herokuapp.com/
 - To predict an image's class, use the `/predict` endpoint
-- For the complete documentation refer to - TODO
+- For the complete documentation refer to - https://covid-net-backend.herokuapp.com/docs
 
 ## Running locally
 ### To train the model locally -
