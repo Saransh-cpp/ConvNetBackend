@@ -1,4 +1,4 @@
-## CovidNet Backend
+## CovidScan Backend
 
 Covid-19 detection using transfer learning.
 
